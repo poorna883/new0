@@ -5,4 +5,5 @@ int main()
 	int a,b,c;
 	scanf('%d,%d',&a,&b);
 	c=a+b;
-	print('%d',c)}
+	printf("Hellobaby\n");
+	printf('%d',c)}
